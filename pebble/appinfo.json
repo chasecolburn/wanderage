@@ -1,0 +1,19 @@
+{
+  "uuid": "af03ba09-968b-48d0-a270-3ae392f4bbf7",
+  "shortName": "wanderer",
+  "longName": "wanderer",
+  "capabilities": [ "configurable" ],
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "user_id": 1,
+    "action": 2
+  },
+  "resources": {
+    "media": []
+  }
+}
